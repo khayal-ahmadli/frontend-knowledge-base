@@ -1,4 +1,4 @@
-# Semantic HTML — Fundamental Explanation
+# Semantic HTML
 
 ## 1. Semantic tag-lər nədir?
 
