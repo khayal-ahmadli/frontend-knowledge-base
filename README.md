@@ -8,5 +8,4 @@ Bu repository — Front-End Developer kimi müsahibələrə sistemli şəkildə 
 - Frontend-in əsasından başlayaraq mövzuları sistemlə öyrənmək  
 - Müsahibədə verilən sual və cavabları bir yerdə toplamaq  
 - Hər gün bir fundamental mövzunu blok kimi işləmək  
-- Tez bir zamanda axtarış və təkrar üçün şəxsi “knowledge base” yaratmaq  
-- Portfolio üçün səliqəli və faydalı bir repositoriya sahib olmaq  
+- Tez bir zamanda axtarış və təkrar üçün “knowledge base” yaratmaq  
