@@ -1,4 +1,4 @@
-# ✅ CSS Grid — Sadə və Tam İzah
+# ✅ CSS Grid
 
 **Grid = 2 ölçülü layout sistemi**  
 (sətir + sütun birlikdə idarə olunur).

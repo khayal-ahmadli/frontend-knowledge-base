@@ -1,4 +1,4 @@
-# ✅ CSS Flexbox — Sadə və Tam İzah
+# ✅ CSS Flexbox
 
 **Flexbox = 1 ölçülü layout sistemi**  
 (ya yatay — row, ya da şaquli — column istiqamətində düzülüş üçün).

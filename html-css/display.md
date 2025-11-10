@@ -1,4 +1,4 @@
-# ✅ CSS Display — Ən Sadə və Tam İzah
+# ✅ CSS Display
 
 CSS-də `display` elementi səhifədə necə davrandığını müəyyən edən ən fundamental xüsusiyyətdir.
 
