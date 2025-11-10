@@ -1,5 +1,4 @@
-# ✅ Critical Rendering Path — Sadə və Tam İzah
-
+# ✅ Critical Rendering Path
 **Critical Rendering Path (CRP)** — brauzerin HTML, CSS və JavaScript fayllarını oxuyub **DOM ağacından ekranda görünən piksel görüntüsü yaratmaq** üçün keçdiyi bütün mərhələlərdir.
 
 CRP nə qədər qısa və optimallaşdırılmış olarsa, səhifə o qədər tez görünür (FCP, LCP, TTI yaxşılaşır).

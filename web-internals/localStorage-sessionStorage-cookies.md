@@ -1,4 +1,4 @@
-# ✅ localStorage, sessionStorage, cookies
+# ✅ LocalStorage, SessionStorage, Cookies
 
 ---
 
