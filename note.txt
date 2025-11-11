@@ -1,0 +1,7 @@
+
+
+hoisting
+useRef nə zaman?
+initialize
+declared
+ execution proses
