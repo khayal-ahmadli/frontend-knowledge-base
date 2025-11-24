@@ -1,7 +1,93 @@
 
 
-hoisting
+
+1️⃣ Execution Process
+2️⃣ Hoisting
+3️⃣ Scope & Lexical Environment
+4️⃣ Closure ✔️ (bitirdik)
+5️⃣ Callback ⬅️ İndi öyrənməli olduğun budur
+6️⃣ Asynchronous Behaviour (event loop, call stack, heap)
+7️⃣ Promises
+8️⃣ async/await
+9️⃣ null & undefined (çox asandır, axırda öyrənilir)
 useRef nə zaman?
-initialize
-declared
- execution proses
+- Promise.then
+- Promise.catch
+- Promise.finally
+
+ ✅ JavaScript Müsahibələrində ƏN ÇOX verilən suallar (Top 20)
+✅ Fundamental (burdan başlayacağıq)
+
+Var, let, const fərqi
+
+Data types (Primitive vs Reference)
+
+Hoisting nədir?
+
+Scope nədir? Block / Function / Global scope
+
+Execution Context nədir?
+
+Call stack nədir?
+
+This keyword nədir və necə işləyir?
+
+== və === fərqi nədir?
+
+Truthy və Falsy nədir?
+
+Pass by value vs pass by reference
+
+✅ Orta səviyyə JS sualları
+
+Callback nədir?
+
+Promise nədir?
+
+Async/Await necə işləyir?
+
+Event loop nədir?
+
+setTimeout niyə gecikir?
+
+Closure nədir? Niyə vacibdir?
+
+Prototype və prototypal inheritance nədir?
+
+"new" keyword nə edir?
+
+Pure function nədir?
+
+Immutability nədir?
+
+✅ Advanced (sonra)
+
+Debounce və Throttle nədir?
+
+Currying nədir?
+
+Memoization nədir?
+
+Shadow DOM nədir?
+
+Event Delegation nədir?
+
+Microtask vs Macrotask fərqi
+
+JS Engine (V8) necə işləyir?
+
+Garbage collection necə işləyir?
+
+Deep copy vs Shallow copy
+
+CSR, SSR, Hydration nədir? (web internals ilə bağlı)
+
+✅ İndi başlayaq:
+
+Aşağıdakılardan birini seç:
+
+✅ 1) var, let, const fərqi
+✅ 2) Hoisting nədir?
+✅ 3) Scope (global, function, block)
+✅ 4) Data types: primitive vs reference
+✅ 5) Execution context (Call stack-in əsası)

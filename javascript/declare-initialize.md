@@ -84,3 +84,17 @@ Burada:
 
 - **Declared** → dəyişənin **adı yaradılır**  
 - **Initialized** → dəyişənə **dəyər verilir**  
+
+## Sual
+
+Variable-lər declaration olanda hoist olunur?
+
+Bəli, bütün variable-lər — var, let, const — hoist olunur.
+
+Amma:
+
+- var hoist olunur və initialize olunur → undefined
+- let & const hoist olunur amma initialize olunmur → TDZ
+
+Yəni fərq `hoist` olunub-olunmamaqda deyil,
+fərq `initialize` olunub-olunmamaqdadır.

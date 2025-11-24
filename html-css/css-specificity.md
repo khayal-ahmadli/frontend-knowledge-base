@@ -63,7 +63,7 @@ Bu halda:
 
 ## 5. Specificity Güc Sırası (Zəifdən Güclüyə)
 
-1. Element selector  
+1. Element selector (Pseudo-elementlər)
 2. Class selector  
 3. ID selector  
 4. Inline style  

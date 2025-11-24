@@ -15,8 +15,8 @@ Bu tip dəyişənlərin özündə dəyər olur (stack-də saxlanır).
 3. boolean  
 4. null  
 5. undefined  
-6. symbol  
-7. bigint  
+6. symbol (Symbol obyektlərdə unikal key yaratmaq üçün istifadə olunur)
+7. bigint (çox böyük rəqəmləri saxlamaq üçündür)
 
 ### ✅ Xüsusiyyətləri:
 - Dəyər **kopyalanır**, referans ötürülmür.  

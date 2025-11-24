@@ -59,6 +59,50 @@ console.log(user2.address.city); // "Ganja"
 
 ---
 
+# “1 səviyyə” və “bütün səviyyələr” nə deməkdir?
+
+## 🔹 Shallow Copy → yalnız **1 səviyyə** kopyalanır
+Shallow copy obyektin *yalnız üst qatındakı* dəyərləri kopyalayır.  
+Əgər obyektin içində başqa obyekt və ya array varsa → **onların içi kopyalanmır**, referens ötürülür.
+
+### Misal:
+    const obj = {
+      name: "Ali",
+      info: { age: 20 }
+    };
+
+    const copy = { ...obj }; // shallow copy
+    copy.info.age = 30;
+
+    console.log(obj.info.age); // 30 → dəyişdi
+
+**Səbəb:**  
+Shallow copy yalnız 1 səviyyəni kopyalayır.  
+`info` adlı nested obyekt isə kopyalanmır → hər iki obyekt eyni `info`-ya baxır.
+
+---
+
+## 🔹 Deep Copy → **bütün səviyyələr** kopyalanır
+Deep copy obyektin içində nə qədər nested obyekt varsa → hamısını ayrı-ayrı kopyalayır.  
+Yəni **heç bir referens paylaşılmır**, hər şey tam təzədən yaradılır.
+
+### Misal:
+    const obj = {
+      name: "Ali",
+      info: { age: 20 }
+    };
+
+    const deep = structuredClone(obj); // deep copy
+    deep.info.age = 30;
+
+    console.log(obj.info.age); // 20 → dəyişmədi
+
+**Səbəb:**  
+Deep copy nested obyektləri də ayrıca kopyalayır.  
+Ona görə də `deep.info` və `obj.info` artıq fərqli obyektlərdir.
+
+---
+
 ## ✅ Shallow Copy üsulları
 - `{ ...obj }`
 - `Object.assign({}, obj)`
